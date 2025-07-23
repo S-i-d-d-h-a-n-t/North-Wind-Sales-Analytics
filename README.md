@@ -2,10 +2,10 @@
 Data Analysis Project: Northwind Traders Sales & Operations
 This project involves an in-depth analysis of the Northwind Traders dataset, focusing on various aspects of their sales, customer, product, employee, and supplier operations. The analysis leverages SQL for data extraction and transformation, and conceptually uses Power BI for visualization and dashboarding to derive actionable business insights.
 
-# 🚀 Project Goal
+## 🚀 Project Goal
 The primary goal of this project is to uncover key trends, patterns, and correlations within the Northwind Traders dataset to provide actionable insights that can drive business improvements in sales, customer management, inventory, and supply chain efficiency.
 
-# 📁 Dataset Overview
+## 📁 Dataset Overview
 The analysis is based on a set of interconnected CSV files representing different entities of the Northwind Traders business. Each file acts as a table in a relational database schema:
 
 categories.csv: Product categories.
@@ -35,12 +35,12 @@ Order Processing and Fulfillment: orders.csv, order details.csv, shippers.csv
 
 Human Resources / Employee Management: employees.csv
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 SQL (MySQL/SQLite Compatible): Used for data extraction, transformation, aggregation, and initial analysis.
 
 Power BI : Envisioned for creating interactive dashboards, visualizations, and detailed reports based on the prepared data.
 
-# 📊 Data Analysis & Insights
+## 📊 Data Analysis & Insights
  **1. Sales & Revenue Performance** 
  
 SQL Analysis:
@@ -111,7 +111,7 @@ Supplier Pricing by Category & Region: Matrix or bar charts comparing average pr
 
 Category Sourcing Breakdown: Charts showing which suppliers contribute to which product categories.
 
-# 🚀 Key Business Improvements
+## 🚀 Key Business Improvements
 The analysis conducted provides the groundwork for several critical improvements for the company:
 
 Optimized Sales & Marketing: Tailoring campaigns based on customer segments and geographic/category preferences will drive higher engagement and ROI.
